@@ -7,7 +7,7 @@ const TopBar = () => {
         <div className="flex justify-between items-center px-4 py-2">
             <div className="flex items-center">
                 <BsChatSquareDots size={30} className="mr-2  text-[var(--primary-dark)]"/>
-                <h1 className="font-bold text-gray-700">WEEKAWAY </h1>   
+                <h1 className="font-bold text-gray-700">TRAVELAWAY </h1>   
             </div>
             <div className="flex ">
                 <div  className="hidden md:flex items-center px-6">
