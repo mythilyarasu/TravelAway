@@ -15,7 +15,7 @@ const Gallery = () => {
             </div>
             <div>
                 <img className='w-full h-full object-cover'
-                src="https://images.unsplash.com/photo-1580223530509-849e0ad583ca?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80" alt="" />
+                src="https://images.unsplash.com/photo-1527824404775-dce343118ebc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODN8fHRyYXZlbHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60" alt="" />
             </div>
             <div>
                 <img className='w-full h-full object-cover'
@@ -23,7 +23,7 @@ const Gallery = () => {
             </div>
             <div>
                 <img className='w-full h-full object-cover'
-                src="https://images.unsplash.com/photo-1548107121-ba49955415b6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDJ8fHJlc29ydHN8ZW58MHwwfDB8fHww&auto=format&fit=crop&w=500&q=60" alt="" />
+                src="https://images.unsplash.com/photo-1501554728187-ce583db33af7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80" alt="" />
             </div>
         </div>
     </div>

@@ -26,7 +26,7 @@ const handleNav = () => {
                <a href="#contact">Contact</a> 
             </li>
         </ul>
-        <div className='flex justify-between '>
+        <div className='flex justify-between cursor-pointer '>
             <FaFacebookF className='mx-4'/>
             <FaTwitter className='mx-4'/>
             <FaGooglePlusG className='mx-4'/>
